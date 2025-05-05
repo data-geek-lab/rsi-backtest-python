@@ -1,12 +1,12 @@
 # rsi-backtest-python
-# 📈 RSI Backtest Trading Bot (Python)
+# RSI Backtest Trading Bot (Python)
 
 This project is Episode 3 of my **Beginner Algorithmic Trading Series** on YouTube.  
 In this episode, we test our RSI-based trading strategy using **real historical stock data** and compare its performance against the overall market.
 
 ---
 
-## 🎯 What You’ll Learn
+## What You’ll Learn
 
 - How to backtest a trading bot using past data  
 - How to calculate market vs. strategy returns  
@@ -15,7 +15,7 @@ In this episode, we test our RSI-based trading strategy using **real historical 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - `pandas`
 - `yfinance`
@@ -24,7 +24,7 @@ In this episode, we test our RSI-based trading strategy using **real historical 
 
 ---
 
-## 📂 File Included
+## File Included
 
 - `RSI_Backtest_Bot.ipynb` – Full working notebook with code, signals, and performance chart
 
