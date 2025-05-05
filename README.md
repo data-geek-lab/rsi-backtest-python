@@ -32,9 +32,9 @@ In this episode, we test our RSI-based trading strategy using **real historical 
 
 ## 📺 Watch the Tutorial
 
-🎥 Watch Episode 3 on YouTube: https://www.youtube.com/@datageekismyname
+🎥 Watch Episode 3 on YouTube: 
 
-🧠 Full Algo Trading Series Playlist: https://www.youtube.com/watch?v=4jcVT56qSLo&list=PLUDxdzmiKmX68B9R5LzI6_JBr63bx_Jun&pp=gAQB
+🧠 Full Algo Trading Series Playlist: [https://www.youtube.com/watch?v=4jcVT56qSLo&list=PLUDxdzmiKmX68B9R5LzI6_JBr63bx_Jun&pp=gAQB](https://youtu.be/-F8rxI4FOFI)
 
 ---
 
